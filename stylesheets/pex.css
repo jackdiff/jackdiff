@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* ------------------------------
+Flash
+------------------------------ */
+body {
+	font-size: 1.4rem;
+ 	background-color: #111110;
+ 	color:#fff;
+	vertical-align: baseline;
+	font-family:'Helvetica';
+	width:100%;
+	margin: 0 auto;
+}
